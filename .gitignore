@@ -1,0 +1,5 @@
+.venv
+__pycache__
+pyxel_examples
+collisiontest.py
+test.py
